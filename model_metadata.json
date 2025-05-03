@@ -1,0 +1,1 @@
+{"features": ["violation_count", "has_tax_lien", "has_violations", "is_residential", "unitsres_zero", "borocode"], "threshold": 0.5, "version": "1.0", "trained_date": "2025-05-03", "performance": {"accuracy": 1.0, "f1_score": 1.0}}

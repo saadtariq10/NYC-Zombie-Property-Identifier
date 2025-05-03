@@ -1,0 +1,7 @@
+.venv
+calibration_plot.png
+feature_importance_gradient_boosting.png
+feature_importance_random_forest.png
+roc_curve_gradient_boosting.png
+zombie_data.csv
+zombie_property_analysis.png
